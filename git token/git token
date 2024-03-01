@@ -1,0 +1,8 @@
+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
+
+##git comand for token
+git remote set-url origin http://<token>@github.com/<username>/<repo>
+
+
+
+git remote set-url origin http://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@github.com/steinberg1989/python-basics-int-may-23
